@@ -1,0 +1,119 @@
+/* color pallette
+2D3142 gunmetal
+4f5d75 black coral
+BFC0C0 silver
+FFFFFF white
+EF8354 light red ochre */
+
+/* Global Styles
+------------------------------------- */
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+h1,
+h2 {
+    font-family: 'Inknut Antiqua', serif;
+}
+
+
+p {
+    font-size: 20px;
+    text-transform: none;
+    line-height: 1.5;
+}
+
+.content-wrap {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: auto;
+}
+
+.col-wide {
+    width: 70%;
+    float: left;
+    padding-left: 20px;
+    min-height: 175px;
+}
+
+.col-narrow {
+    width: 30%;
+    float: left;
+    min-height: 175px;
+}
+
+a {
+    color: #ef8354;
+}
+
+a:hover {
+    color: #bfc0c0;
+    text-decoration: none;
+}
+
+/* education and work */
+
+.education {
+    background-color: #4f5d75;
+}
+
+.work {
+    background-color: #4f5d75;
+}
+
+/* header and footer */
+
+header,
+footer {
+    background-color: #2d3142;
+}
+
+/* header */
+
+.profile-img {
+    border-radius: 50px;
+}
+
+/* header {
+    text-align: center;
+} */
+
+header h1,
+header h2 {
+    color: #ef8354;
+    margin: 0;
+}
+
+/* footer */
+
+footer {
+    text-align: center;
+}
+
+.contact-info a {
+    font-size: 100%;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}

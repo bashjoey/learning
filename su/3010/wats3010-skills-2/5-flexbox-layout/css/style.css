@@ -1,0 +1,35 @@
+p {
+  height: 100px;
+  width: 400px;
+  background-color: blue;
+  margin: 5px 5px;
+}
+
+ul.copyright {
+  display: flex;
+  padding: 0 10px;
+  height: 100%;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer {
+  background-color: darkgray;
+  color: white;
+  height: 100px;
+}
+
+.flex-nowrap {
+  display: flex;
+}
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}

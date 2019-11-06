@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+h1, h2, h3, h4 {
+    color: violet;
+}
+
+dt {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 1.4rem;
+    color: orange;
+}
+
+dl {
+    font-family: 'Arial', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    color: greenyellow;
+}
+
+/*just did this cuz i was bored*/

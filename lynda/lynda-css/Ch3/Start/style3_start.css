@@ -1,0 +1,17 @@
+.wrapper {
+    width: '70%';
+}
+.header, .footer {
+    background-color: purple;
+    color: white;
+    padding: 30px;
+}
+.content {
+    border-color: black;
+    /*I could have added solid above but meh*/
+    border-style: solid;
+    border-width: 1px;
+    padding: 30px;
+    margin: 10px 0px;
+    /*oops forgot to put in the 0px value*/
+}

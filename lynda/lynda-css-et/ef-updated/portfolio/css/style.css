@@ -1,0 +1,205 @@
+/* color pallette
+2D3142 gunmetal
+4f5d75 black coral
+BFC0C0 silver
+FFFFFF white
+EF8354 light red ochre */
+
+
+/* global styles 
+---------------------- */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    color: #2d3142;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ef8354;
+}
+
+a:focus {
+    color: yellow;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Unica One', cursive;
+    font-weight: 400;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 2;
+}
+
+h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-wrap {
+    max-width: 800px;
+    width: 85%;
+    padding: 60px 0;
+    margin: 0 auto;
+}
+
+.item-details h3 + p {
+    font-style: italic;
+}
+
+.item-details h3 ~ p {
+    margin: 0;
+}
+
+.divider > section {
+    border-bottom: 1px dashed #2d3142;
+    padding: 25px 0;
+}
+
+.divider > section:last-of-type {
+    border-bottom: none;
+}
+
+/* profile 
+---------------------- */
+
+header {
+    background: #ef9354;
+    text-align: center;
+}
+
+/* projects
+---------------------- */
+
+.projects {
+    background: #BFC0C0;
+}
+
+/* .projects a {
+
+} */
+
+.projects .btn {
+    padding: 8px;
+    color: #fff;
+    background: #2d3142;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.projects .btn:hover {
+    background: rgba(45, 49, 66, 80%);
+}
+
+.project-item {
+    overflow: hidden;
+}
+
+.project-item img {
+    float: left;
+    margin-right: 20px;
+}
+
+.project-item h3 {
+    margin-top: 0px;
+}
+
+/* work experience
+---------------------- */
+
+.work-exp {
+    background: #4f5d75;
+    color: #fff;
+}
+
+.work-exp a {
+    color: #fff;
+}
+
+.job-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 20px;
+}
+
+.job-summary p:first-child {
+    margin-top: 0;
+}
+
+/* education
+---------------------- */
+
+.edu {
+    background-image: url(../img/joanna-kosinska-unsplash.jpg);
+    background-size: cover;
+    background-position: top right;
+    padding-bottom: 100px;
+}
+
+.edu p {
+    width: 60%;
+}
+
+/* contact info
+---------------------- */
+
+footer {
+    background: #2d3142;
+    color: #bfc0c0;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: #ef8354;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 85%;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-list a {
+    padding: 15px;
+    display: inline-block;
+}

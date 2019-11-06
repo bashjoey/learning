@@ -1,0 +1,241 @@
+body {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+
+/*added h1 & h3 below because layout looked derpy*/
+
+h1 {
+    padding: 8px;
+}
+
+h3,
+h4 {
+    padding: 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 0 20px;
+}
+
+p {
+    padding: 0 5px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0 10px 15px 10px;
+    letter-spacing: .2rem;
+    font-size: 1rem;
+}
+
+p,
+nav,
+div,
+a,
+figcaption,
+span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*page links*/
+
+ul.page-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.page-links li {
+    float: left;
+}
+
+.page-links a {
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.page-links a:hover {
+    background-color: gray;
+    color: white;
+}
+
+.page-links .active {
+    background-color: #ffbf00;
+    color: black;
+}
+
+/*social links*/
+
+ul.social-links {
+    list-style-type: none;
+    height: 48px;
+    line-height: 48px;
+}
+
+.social-links li {
+    display: inline-block;
+    width: 5rem;
+    background-color: #ffbf00;
+    text-align: center;
+}
+
+.social-links a {
+    color: black;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: white;
+}
+
+.social-links li:hover {
+    background-color: gray;
+}
+
+/*nav*/
+
+nav {
+    position: relative;
+    height: 48px;
+    background-color: black;
+}
+
+.nav-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.nav-left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/*big image*/
+
+.big-image {
+    margin: 0;
+}
+
+.big-image img {
+    width: 100%;
+    height: 200px;
+}
+
+
+figcaption {
+    /*sorry I couldn't help myself*/
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: darkslategrey;
+    padding: 0 0 0 8px;
+}
+
+/*table*/
+
+.table {
+    display: table;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.row {
+    display: table-row;
+}
+
+.col {
+    display: table-cell;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.col p {
+    font-size: 1rem;
+}
+
+.wrapped {
+    display: block;
+    float: left;
+    padding: 5px;
+}
+
+/*call to action*/
+
+.cta {
+    width: 11rem;
+    margin: auto;
+    text-align: center;
+}
+
+.cta-button {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    background: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 1rem;
+    /*also couldn't stop myself*/
+    border-color: red;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-bottom-width: 40px;
+}
+
+/*footer*/
+
+footer {
+    background-color: #333;
+    height: 4rem;
+    color: white;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.footer-left {
+    position: absolute;
+    left: 0.50%;
+}
+
+.footer-right {
+    position: absolute;
+    right: 0.50%;
+}
