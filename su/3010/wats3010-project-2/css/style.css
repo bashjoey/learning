@@ -62,7 +62,7 @@ p {
     margin-top: 10px;
 }
 
-/* okay so i guess i need to do things on media.html too */
+/* okay so i guess i need to do things on about.html and media.html too */
 .spacing1 {
     margin-top: 20px;
     margin-bottom: 5px;
@@ -73,10 +73,19 @@ p {
     margin-right: 25px;
 }
 
+.spacing3 {
+    margin-bottom: 20px;
+}
+
+.spacing4 {
+    margin-top: 20px;
+}
+
 .podcast {
     margin-right: 25px;
 }
-
+ /* okay i'm done now haha */
+ 
 .container {
     display: grid;
     grid-template-columns: 1fr;
