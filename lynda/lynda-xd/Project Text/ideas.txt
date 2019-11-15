@@ -1,0 +1,96 @@
+Create an easy way for people to exchange/trade knowledge
+Make it easy to search for new things to learn
+Make it even easier to add and edit items to teach
+Someone motivated to learn something new can book a class with just a few steps
+A learner can talk to a teacher to ask questions before booking a new class
+People can book classes onsite or online depending on what the teacher offers
+People can learn more about a class or a teacher
+People can rate a class and a teacher 
+People can search for new things to learn, and also look at teachers info, including their interests
+Teachers can easily update their profiles with classes and things they are interested in learning
+Learners and teachers can chat at any time, before committing to a class
+A class or topic can have a title, a description, ratings and a picture to drive engagement
+Teachers can accept or deny booking requests depending on their availability or interest
+After a class is over, teachers accumulate hours to be used later to take classes to cover their interests
+Anyone can learn or teach anything
+The app can help with booking, but the class content and style are responsibilities of a teacher
+No money can be used to pay for classes. Otherwise, it'll break the core principle of trading knowledge
+Teachers can collect a list of all mistakes learners make, as a database for others to check
+Leaners can define a list of fears that are blocking them from starting a class
+Offer a progress tracker with notifications to detect down times and drive engagements
+Collect testimonials as text or video to inspire other learners to overcome fears
+Create a section in the app to tell successful stories
+Tell stories of teachers who helped change lives by sharing knowledge
+Make it easy for people to share their stories on social media (Facebook, Twitter, Instagram, etc)
+Create structure for group classes (one teacher and multiple students)
+After a class is completed, a learner gets a notification to rate the instructor and the class
+After a class is completed, a teacher gets a notification to rate the learner
+Rating and reviews are only visible after learners and teachers finish rating each other
+People can share items as memories, including pictures, videos, and text
+List science articles covering research on how the brain operates when learning
+Offer in-app live stream sessions with well-known teachers (e.g. Carol Dweck, talking about mindset)
+Get professional coaches to teach classes to bigger groups
+Help underprivileged kids to get access to top coaches, developing underserved areas
+Allow kids teach adults on things they know
+Allow multiple teachers to teach a class. Collaboration can make classes even stronger
+Offer onsite 1:1 classes, but also allow online classes
+For more technical subjects, such as computer science, list resources for reading
+Promote the app with elders who are trying to find things to do, and they can teach young people remotely
+Run a podcast with success stories
+List the most interesting or exotic learning experiences
+Let people physically close to each other to connect using geolocation
+Create a platform for learners to teach to practice what they're learning
+List the biggest failures to promote that failing is ok, as long as you learn from your mistakes
+On the negative side, when someone might be harmful, create mechanisms to block certain people
+Create a code of conduct and be strict about bullying and negative behaviors
+Build a bucket of problems to be solved, so that people can use them as real cases when teaching
+Help people to prioritize what they want to do and learn, including time management
+People don't have time to fill out long forms, make it easy to sign up for a class or join the app
+Provide a platform to teach people how to teach
+Make it easy for learners to pick the best teacher for them, maybe via ratings or recommendations
+Anyone knows something valuable. Find and encourage teachers that don't know they can be teachers
+Mix different pieces of knowledge from real-world cases, to teach concepts by seeing the real thing
+Teach topics to help people become better learners (e.g. how to focus, manage distractions, etc)
+Use interesting real-stories when teaching (e.g. people make irrational decisions when buying things)
+Offer phone number to instant help (e.g. +1-415-LEARN), and a teacher calls you with the answer
+Track hashtag on social for instant help and a teacher replies with the answer
+Create Youtube channel with how-tos of common questions (e.g. how to tie a tie, how to fold a shirt)
+Integrate with Google Translate to have people from different countries teaching or learning
+Create self-challenges. You challenging yourself, with a sense of urgency to result in completion
+Let people be the best they can be. (e.g., I want to be the best Demian I can be, not the best Tom)
+Provide a mechanism (e.g., questionnaire) for people to identify their strengths and weaknesses
+Allow teachers to take notes of lessons learned while teaching
+Learners can provide anonymous feedback to teachers during classes, focusing on constructive ideas
+A learner can see what the teacher is interested in learning at any time
+Teachers can work together on a program for any topic, and can then co-teach the class
+Learners can change their location and dates to sign up for classes in the future at different places
+Classes can be filmed for learners to go back and review what needs to improve
+List videos of successful learners that went through the challenges to inspire others
+Let anyone list items they feel they can teach, resulting in a place for good topics and teachers
+Add system to recommend teachers based on geolocation, to help people know they can learn where they go
+People can create a list of things they want to learn, with options to prioritize the items easily
+Provide tools for people to make decisions (e.g. users can list pros and cons of the industry/theme)
+Learners can record their stories for new learners to hear them and feel inspired
+Create a leaderboard with friends or groups, where the teacher who shares the most gets more points
+Offer a page for areas of interest, where learners and teachers can add text, links and videos
+On-demand help via video call, where learners can reach out to teachers to answer a specific question
+Provide a package for experiments, and list the results in an Experiments tab
+Create a chat bot for common questions and answers
+Recommend teachers via email to people interested in specific areas
+Promote social interactions such as study groups, via video, voice or chat
+Work with professional athletes to teach bigger groups (e.g. surfing, skateboarding, swimming)
+Work with professionals to teach larger classes on design or programming
+Recommended a class for Creative Confidence & Mindset, to give people tools to trust they can do it
+Work with government and non-profit organizations to offer classes tackling real-world problems
+Allow people to plan what they want to be in 2, 5, 10 years, and remind them about classes that can help
+People can create micro-blocks of knowledge, something that anyone can record in seconds and share with everyone
+Offer companies access to learners for user testing or research in general
+Create micro-challenges to be solved in groups to drive interest and collaboration
+Help serious learners to find resources to cross the wall they hit when trying to become "semi-pros"
+Offer live online group lessons for free on Facebook and Youtube, where people can ask questions in real time
+Create section to tackle hard problems with no clear solution, and learn as the experiment evolves
+Create stickers for laptops with an engaging and challenging question, linking back to the app
+Create badge for top teachers to be used on social media and email signatures
+Use Machine Learning to recommend classes that might be a good fit for learners
+In addition to a mobile app, create a website and a Facebook page for people to learn and teach
+Group similar classes in groups to help people find them faster
