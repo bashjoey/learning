@@ -8,20 +8,20 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    padding-bottom: 20px;
-    color: #20124d;
-    background-color: #ff8c2d;
+	padding-bottom: 20px;
+	color: #20124d;
+	background-color: #ff8c2d;
 }
 
 nav {
-    background-color: #20124d;
-    color: #8fc5f8;
+	background-color: #20124d;
+	color: #8fc5f8;
 }
 
 nav a {
-    color: #ffeb40;
+	color: #ffeb40;
 }
 
 nav a:hover {
-    color: #9fc5f8;
+	color: #9fc5f8;
 }
