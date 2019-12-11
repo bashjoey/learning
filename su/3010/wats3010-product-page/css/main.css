@@ -1,12 +1,13 @@
 /* Colors
 #20124d - dark purple
-#ff8c2d - orange */
+#ff8c2d - orange 
+#ffeb40 - yellowish 
+#9fc5f8 - baby bleu */
 
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    padding-top: 30px;
     padding-bottom: 20px;
     color: #20124d;
     background-color: #ff8c2d;
@@ -14,4 +15,13 @@ body {
 
 nav {
     background-color: #20124d;
+    color: #8fc5f8;
+}
+
+nav a {
+    color: #ffeb40;
+}
+
+nav a:hover {
+    color: #9fc5f8;
 }
