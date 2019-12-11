@@ -1,8 +1,17 @@
+/* Colors
+#20124d - dark purple
+#ff8c2d - orange */
+
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
     padding-top: 30px;
     padding-bottom: 20px;
-    color: green;
+    color: #20124d;
+    background-color: #ff8c2d;
+}
+
+.nav {
+    
 }
