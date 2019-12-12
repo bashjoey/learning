@@ -1,7 +1,7 @@
 /* Colors
 #20124d - dark purple
-#ff8c2d - orange 
-#ffeb40 - yellowish 
+#ff8c2d - orange
+#ffeb40 - yellowish
 #9fc5f8 - baby bleu */
 
 /* Styles for Product Page Customization */
@@ -11,6 +11,8 @@ body {
 	padding-bottom: 20px;
 	color: #20124d;
 	background-color: #ff8c2d;
+	font-family: 'Lakki Reddy', cursive;
+	font-family: 'Mansalva', cursive;
 }
 
 nav {
