@@ -22,8 +22,20 @@ nav {
 
 nav a {
 	color: #ffeb40;
+	font-size: 1.3em;
+	text-decoration: none;
 }
 
 nav a:hover {
 	color: #9fc5f8;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+#article1 {
+	background-color: #ffeb40;
+	color: #20124d;
+	text-align: center;
 }
