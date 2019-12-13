@@ -8,34 +8,40 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-	padding-bottom: 20px;
-	color: #20124d;
-	background-color: #ff8c2d;
+  padding-bottom: 20px;
+  color: #20124d;
+  background-color: #ff8c2d;
 	font-family: 'Lakki Reddy', cursive;
-	font-family: 'Mansalva', cursive;
 }
 
 nav {
-	background-color: #20124d;
-	color: #8fc5f8;
+  background-color: #20124d;
+  color: #8fc5f8;
 }
 
 nav a {
-	color: #ffeb40;
-	font-size: 1.3em;
-	text-decoration: none;
+  color: #ffeb40;
+  font-size: 1.3em;
+  text-decoration: none;
 }
 
 nav a:hover {
-	color: #9fc5f8;
+  color: #9fc5f8;
 }
 
 h1 {
-	font-size: 3em;
+	font-family: Mansalva, serif;
+  font-size: 1.5em;
+}
+
+.navi {
+  font-size: 1.25em;
+  color: #9fc5f8;
 }
 
 #article1 {
-	background-color: #ffeb40;
-	color: #20124d;
-	text-align: center;
+  text-align: center;
+  background-color: #ffeb40;
+  color: #20124d;
+  font-size: 3em;
 }
