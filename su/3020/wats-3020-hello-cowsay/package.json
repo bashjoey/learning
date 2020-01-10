@@ -1,0 +1,24 @@
+{
+  "name": "my-cowsay",
+  "version": "1.0.0",
+  "description": "Cowsay with node and browser",
+  "main": "index.js",
+  "scripts": {
+    "node-cowsay": "npx cowsay",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccapeltz/my-cowsay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccapeltz/my-cowsay/issues"
+  },
+  "homepage": "https://github.com/rebeccapeltz/my-cowsay#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
