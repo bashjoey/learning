@@ -11,7 +11,7 @@ body {
   padding-bottom: 20px;
   color: #20124d;
   background-color: #ff8c2d;
-	font-family: 'Lakki Reddy', cursive;
+  font-family: 'Lakki Reddy', cursive;
 }
 
 nav {
@@ -30,7 +30,7 @@ nav a:hover {
 }
 
 h1 {
-	font-family: Mansalva, serif;
+  font-family: Mansalva, serif;
   font-size: 1.5em;
 }
 
